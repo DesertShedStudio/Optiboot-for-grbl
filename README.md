@@ -1,4 +1,6 @@
 # Optiboot-for-grbl
+Update: 12/05/2024 This repo is retained for the users of my grbl g540 cnc controller! Newer options currently exist. 
+
 Atmega328P bootloader for use with GRBL using the spindle direction as spindle enable option.
 
 *Optiboot bootloader github: https://github.com/Optiboot/optiboot
